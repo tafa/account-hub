@@ -109,8 +109,6 @@ An **authkey** is a JSON object, e.g.
 {"type": "hmac-sha256", "key": "...base64...", "url": "https://example.com", "token": "EWyYz92V"}
 </pre>
 
-hmac-sha256 is the only supported type so far.
-
 ## API Authentication
 
 
